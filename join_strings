@@ -1,0 +1,7 @@
+
+const joinStrings = (S, P) => 
+{
+let S1=S.concat(P);
+return S1;
+};
+ 
